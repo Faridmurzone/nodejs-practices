@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "My nodejs practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodejs-practices"
+  },
+  "keywords": [
+    "nodejs",
+    "practice",
+    "node"
+  ],
+  "author": "Farid Murzone",
+  "license": "GNU General Public License v3.0",
+  "dependencies": {
+    "express": "",
+    "mongo": ""
+  }
+}
